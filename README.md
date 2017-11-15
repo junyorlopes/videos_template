@@ -1,4 +1,4 @@
-# ACERVO DE MÍDIA
+# Acervo de Mídia
 Este template desenvolvido em HTML5/CSS3, utilizando framework Bootstrap. Tem como objetivo organizar futuro acervo de mídia, encontra-se em fase de desenvolvimento.
 
 # Contato:
