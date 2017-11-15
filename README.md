@@ -1,2 +1,10 @@
-# Template HTML5
-Este template desenvolvido em HTML5/CSS3 tem a função de organizar futuro acervo de mídia.
+# ACERVO DE MÍDIA
+Este template desenvolvido em HTML5/CSS3, utilizando framework Bootstrap. Tem como objetivo organizar futuro acervo de mídia, encontra-se em fase de desenvolvimento.
+
+# Contato:
+
+Linkedin: https://www.linkedin.com/in/junyor-lopes-190a20145/
+
+Webiste: https://junyorlopes.github.io/
+
+Email: carloslopesjunyor@gmail.com
